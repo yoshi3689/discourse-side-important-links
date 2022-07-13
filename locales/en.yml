@@ -1,4 +1,19 @@
 en:
-  top_contributors:
-    title: "Top Contributors"
-    view_all: "View All"
+  link1:
+    title: "All Unanswered Topics"
+    url: "View All"
+  link2:
+    title: "Community Blog"
+    url: "View All"
+  link3:
+    title: "Community Guidelines"
+    url: "View All"
+  link4:
+    title: "Code of Conduct"
+    url: "View All"
+  link5:
+    title: "Terms of Service"
+    url: "View All"
+  link6:
+    title: "Privacy Policy"
+    url: "View All"
